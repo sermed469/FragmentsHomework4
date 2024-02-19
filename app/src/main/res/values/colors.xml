@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="anasayfaRenk">#348888</color>
+    <color name="sayfaARenk">#22BABB</color>
+    <color name="sayfaBRenk">#9EF8EE</color>
+    <color name="sayfaXRenk">#FA7F08</color>
+    <color name="sayfaYRenk">#F24405</color>
+    <color name="yaziRenkSiyah">#000000</color>
+    <color name="yaziRenkBeyaz">#FFFFFF</color>
+</resources>
